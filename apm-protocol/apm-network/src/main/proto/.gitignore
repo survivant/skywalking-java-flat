@@ -1,0 +1,5 @@
+# Bazel artifacts
+/bazel-*
+MODULE.bazel.lock
+
+.idea
